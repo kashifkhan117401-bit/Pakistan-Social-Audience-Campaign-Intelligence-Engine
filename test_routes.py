@@ -80,7 +80,7 @@ def run_tests():
                 "captcha": "WRONG1",
             })
             assert res.status_code == 200
-            assert "Incorrect CAPTCHA" in res.get_data(as_text=True)
+            assert "Incorrect CAPTCHA" in res.get_data(as_text=True) 
 
             # 4. CAPTCHA replay rejected (single-use)
             res = client.post("/login", data={
