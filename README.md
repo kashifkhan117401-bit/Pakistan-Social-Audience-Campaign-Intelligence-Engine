@@ -22,7 +22,7 @@ pinned: false
 
 The **Pakistan Social Audience & Campaign Intelligence Engine** is an enterprise-grade multi-channel digital marketing analytics platform and normalized relational database management system. It unifies telemetry across **Facebook, Instagram, TikTok, and YouTube**, bridging big data engineering with quantitative marketing science.
 
----
+--- 
 
 ## 📸 Complete Application Feature Previews
 
