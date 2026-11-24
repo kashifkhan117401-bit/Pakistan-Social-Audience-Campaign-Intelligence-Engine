@@ -1,7 +1,7 @@
 ---
 title: Campaign Intelligence Engine
 emoji: 📊
-colorFrom: green
+colorFrom: green 
 colorTo: yellow
 sdk: docker
 app_port: 7860
